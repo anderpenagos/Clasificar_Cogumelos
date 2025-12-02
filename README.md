@@ -81,6 +81,8 @@ Uma função retorna as 5 variáveis mais relevantes para a árvore de decisão.
 
 # Resultados
 
-O modelo apresentou alta acurácia (como é comum nesse dataset).
+Modelo apresenta alta acurácia (acima de 95% dependendo do split).
 
-A análise de importância dos atributos mostrou que características como odor, spore-print-color e gill-size são fatores decisivos para identificar cogumelos venenosos.
+As features relacionadas a odor e características das brânquias são as mais relevantes na classificação.
+
+A árvore de decisão fornece ótima interpretabilidade sobre como as decisões são feitas.
